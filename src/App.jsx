@@ -22,7 +22,8 @@ function App() {
   }
 
   return (
-    <>
+    
+    <> {/* this is the fragment in react where we can write multiple html tags. */}
       <h1>Chai with Gulshan</h1>
       <h2>Counter Value: {counter}</h2>
 
