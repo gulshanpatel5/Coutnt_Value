@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState } from 'react'// it is used to import the hook in the code. eg useState is a hook, which helps to update the value in ui.
 // import reactLogo from './assets/react.svg'
 // import  viteLogo from '/vite.svg'
 import './App.css'
